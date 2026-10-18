@@ -1,0 +1,55 @@
+
+.navbar {
+  background-color: #00853E;
+  padding: 22px 8%;
+}
+
+.logo,
+.nav-links a {
+  color: white;
+}
+
+.nav-links a:hover {
+  color: #D9F5E3;
+}
+
+.hero {
+  background: linear-gradient(
+    135deg,
+    #E8F5EC,
+    #FFFFFF
+  );
+}
+
+.hero h1 {
+  color: #00552E;
+}
+
+
+.primary-button {
+  background-color: #00853E;
+  color: white;
+}
+
+.primary-button:hover {
+  background-color: #00552E;
+}
+
+.feature-card {
+  background-color: white;
+  border: 1px solid #CBE8D4;
+}
+
+.feature-card h3 {
+  color: #00853E;
+}
+
+.about {
+  background-color: #E8F5EC;
+}
+
+
+footer {
+  background-color: #00552E;
+  color: white;
+}
